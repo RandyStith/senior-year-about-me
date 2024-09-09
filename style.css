@@ -1,0 +1,35 @@
+.p_one {
+    text-align: center;
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+.p_two {
+    text-align: center;
+    font-weight: bolder;
+    color: forestgreen;
+}
+
+.p_three {
+    text-align: center;
+    font-weight: bold;
+    color: mediumpurple;
+}
+
+.p_four {
+    text-align: center;
+    font-weight: bolder;
+    color: peru;
+}
+
+.p_five {
+    text-align: center;
+    font-weight: bold;
+    color: teal;
+}
+
+.p_six {
+    text-align: center;
+    font-weight: bolder;
+    color: coral;
+}
