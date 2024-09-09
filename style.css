@@ -2,34 +2,45 @@
     text-align: center;
     font-weight: bold;
     color: darkslateblue;
+    font-size: 2vw;
 }
 
 .p_two {
     text-align: center;
     font-weight: bolder;
     color: forestgreen;
+    font-size: 2vw;
 }
 
 .p_three {
     text-align: center;
     font-weight: bold;
     color: mediumpurple;
+    font-size: 2vw;
 }
 
 .p_four {
     text-align: center;
     font-weight: bolder;
     color: peru;
+    font-size: 2vw;
 }
 
 .p_five {
     text-align: center;
     font-weight: bold;
     color: teal;
+    font-size: 2vw;
 }
 
 .p_six {
     text-align: center;
     font-weight: bolder;
     color: coral;
+    font-size: 2vw;
+}
+
+img {
+    margin-left: 40vw;
+    width: 20vw;
 }
